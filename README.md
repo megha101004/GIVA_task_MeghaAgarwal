@@ -1,4 +1,4 @@
-# This is a simple Product Management System built with Next.js (React), Node.js, and PostgreSQL. The application provides basic CRUD operations (Create, Read, Update, Delete) for managing products, making it an ideal example of a full-stack web application with a frontend, backend, and database integration.
+This is a simple Product Management System built with Next.js (React), Node.js, and PostgreSQL. The application provides basic CRUD operations (Create, Read, Update, Delete) for managing products, making it an ideal example of a full-stack web application with a frontend, backend, and database integration.
 
 ## Features
 Product Listing: View a list of products with details like name, description, price, and quantity.
